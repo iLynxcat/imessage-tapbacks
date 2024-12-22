@@ -7,6 +7,10 @@ it.
 
 PRs are welcome to `colorful` and `mono` :)
 
+## Examples
+
+<img src="./colorful/haha.svg" alt="Haha Tapback" width="44" height="44" />
+
 ## License
 
 The original Tapback images are intellectual property of Apple Inc.
