@@ -9,7 +9,7 @@ PRs are welcome to `colorful` and `mono` :)
 
 ## Examples
 
-<img src="./colorful/haha.svg" alt="Haha Tapback" width="44" height="44" />
+<img src="./colorful/haha_88px.png" alt="Haha Tapback" width="44" height="44" />
 
 ## License
 
